@@ -1,6 +1,8 @@
 # Game_Jam_Group_9_Project
  OUA First Game Jam Group 9 Project
 
+Youtube Oyun Tanıtım Videosu: https://www.youtube.com/watch?v=uazP31ovgTU
+
 =====================================       KULLANDIĞIMIZ ASSETLER HAKKINDA       =====================================
 
 
